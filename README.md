@@ -1,0 +1,1 @@
+In this project , aimed to find the number of vowels,consonants,punctuations and some special characters by given the text or document as imput.Here i used C-Programming language with basic data structures
